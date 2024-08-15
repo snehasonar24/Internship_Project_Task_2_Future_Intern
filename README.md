@@ -10,7 +10,7 @@ The dataset used for this analysis is tt_cleaned, which contains passenger infor
 The tt_cleaned dataset contains the following columns:
 
 * Survived: Indicates whether the passenger survived (1) or not (0).
-* Pclass: Passenger's class (1, 2, or 3).
+* Pclass: Passenger's class 
 * Age: Passenger's age.
 * SibSp: Number of siblings or spouses aboard.
 * Parch: Number of parents or children aboard.
